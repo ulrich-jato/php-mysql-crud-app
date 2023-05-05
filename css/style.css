@@ -1,0 +1,83 @@
+/*  Name: Jato Ulrich Guiffo Kengne 
+    Date: April 08, 2023 
+    Section: CST 8285 section 303
+    Assignment: 02 
+    File: style.css
+    Assignment objective: Use HTML, CSS, JavaScript, PHP and 
+    MySQL to buils a web aplication to perform CRUD operation
+*/
+
+/***************************************/
+/****************General Style**********/
+body {
+    background-color: #ffe8cc;
+}
+
+header {
+    width: 700px;
+    margin: 20px auto 60px auto;
+    background-color: #37b24d;
+    color: #ebfbee;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+/***************************************/
+/****************index.php Style**********/
+.wrapper-view {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+table {
+    background-color: #fff0f6;
+}
+
+table tr td:last-child {
+    width: 120px;
+}
+
+.img-index {
+    width: 150px;
+}
+
+td,
+.footer-text {
+    text-align: center;
+}
+
+/***************************************/
+/****************read.php Style**********/
+.wrapper-view-data {
+    margin: 0 auto;
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    background-color: #fff0f6;
+    padding: 20px;
+}
+
+.label-image-view {
+    display: block;
+}
+
+.img-data-view {
+    width: 500px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
