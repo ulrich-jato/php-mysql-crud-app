@@ -1,5 +1,5 @@
 <h1>Web Programming CRUD Project</h1>
-<p>This project is a CRUD (Create, Read, Update, Delete) application built using PHP and MySQL. It was assigned as part of the course Web Programming CST8285, and is based on starting code provided during the course.</p>
+<p>Developed a PHP and MySQL application for efficient store inventory management, allowing users to add, update, and delete product records, including images, descriptions, and pricing. The front end is built with HTML and CSS, while PHP and MySQL handle data storage and retrieval.</p>
 <h2>Files and Folders</h2>
 <p>The project contains the following files and folders:</p>
 <ul>
