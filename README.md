@@ -1,4 +1,4 @@
-<h1>Web Programming CRUD Project</h1>
+<h1>PHP Store Management System</h1>
 <p>Developed a PHP and MySQL application for efficient store inventory management, allowing users to add, update, and delete product records, including images, descriptions, and pricing. The front end is built with HTML and CSS, while PHP and MySQL handle data storage and retrieval.</p>
 <h2>Files and Folders</h2>
 <p>The project contains the following files and folders:</p>
